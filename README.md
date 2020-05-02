@@ -1,2 +1,2 @@
-# theme-switcher
+# Theme Switcher
  CSS Theme Switcher
